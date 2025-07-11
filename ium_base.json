@@ -1,0 +1,72 @@
+[
+  {
+    "codigo_ium":"IUM-00001",
+    "principio_activo":"Losartán",
+    "nombre_comercial":"Losartán 50 mg",
+    "forma":"Tableta",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00002",
+    "principio_activo":"Metformina",
+    "nombre_comercial":"Metformina 850 mg",
+    "forma":"Tableta",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00003",
+    "principio_activo":"Insulina glargina",
+    "nombre_comercial":"Lantus",
+    "forma":"Inyectable",
+    "via":"Subcutánea"
+  },
+  {
+    "codigo_ium":"IUM-00004",
+    "principio_activo":"Salbutamol",
+    "nombre_comercial":"Ventolin",
+    "forma":"Inhalador",
+    "via":"Inhalada"
+  },
+  {
+    "codigo_ium":"IUM-00005",
+    "principio_activo":"Omeprazol",
+    "nombre_comercial":"Omeprazol 20 mg",
+    "forma":"Cápsula",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00006",
+    "principio_activo":"Amoxicilina",
+    "nombre_comercial":"Amoxil",
+    "forma":"Cápsula",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00007",
+    "principio_activo":"Paracetamol",
+    "nombre_comercial":"Dolex",
+    "forma":"Tableta",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00008",
+    "principio_activo":"Ibuprofeno",
+    "nombre_comercial":"Advil",
+    "forma":"Tableta",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00009",
+    "principio_activo":"Sertralina",
+    "nombre_comercial":"Zoloft",
+    "forma":"Tableta",
+    "via":"Oral"
+  },
+  {
+    "codigo_ium":"IUM-00010",
+    "principio_activo":"Lorazepam",
+    "nombre_comercial":"Ativan",
+    "forma":"Tableta",
+    "via":"Oral"
+  }
+]
